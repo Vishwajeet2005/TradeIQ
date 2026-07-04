@@ -8,7 +8,7 @@
  
 ## What it does
  
-TradeIQ is a local-first trading journal that turns your trade log into a learning machine. Every trade you record feeds an AI analysis engine (Qwen QwQ-32B via Groq) that surfaces patterns, mistakes, and market structure insights you'd otherwise miss.
+TradeIQ is a local-first trading journal that turns your trade log into a learning machine. Every trade you record feeds an AI analysis engine using Qwen QwQ-32B via Groq that surfaces patterns, mistakes, and market structure insights you'd otherwise miss.
  
 ---
  
